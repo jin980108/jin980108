@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&backgroundcolor=lightpurple&text=jin's&nbsp;area🚗&fontSize=30&fontAlign=10&fontColor=99ccff)
 > _"Fall seven times, stand up eight."_
 
+안녕하세요.✋
+정상에 오르기 위해 등반하고 있는 '등산가' 주니어 개발자 조경진입니다.<br>
+빠르게 오르지는 못하지만 정상을 향해 오르고 있습니다.<br>
+꾸준하고 성실하게 올라가는 사람이 되겠습니다.
+
 ## 🧱 Tech Stack
 ### Language
 <p>
