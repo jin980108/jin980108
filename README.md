@@ -13,6 +13,7 @@
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MyBatis-4287A6?style=flat-square&logo=MyBatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 </p>
 
 ### RDBMS
